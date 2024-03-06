@@ -6,9 +6,9 @@ int main()
     printf("enter the number according to your  choice:\n");
     printf("\n1.addition\n2.subtraction\n3.division\n4.multiplication\n");
     scanf("%d", &choice);
-    printf("enter the first wala number");
+    printf("enter the first number");
     scanf("%d", &a);
-    printf("enter the second wala number");
+    printf("enter the second number");
     scanf("%d", &b);
     switch (choice)
     {
